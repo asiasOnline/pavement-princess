@@ -1,0 +1,9 @@
+{
+  "repositoryName": "pavement-pixies",
+  "routes": [
+    {
+      "type": "home_page",
+      "path": "/home-page"
+    }
+  ]
+}
